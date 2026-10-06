@@ -8,11 +8,12 @@ UG TBM @ Masters' Union, Gurgaon (2025–2029). Currently building the **EazyDin
 
 **Featured**
 
+- [eac-concierge](https://github.com/prathamsethiongithub/eac-concierge) — architecture overview of the EazyDiner Autonomous Concierge (retrieval-first dining AI)
+- [mu-launcher](https://github.com/prathamsethiongithub/mu-launcher) — EMBER: an Electron + React Minecraft launcher with a custom design system
+- [baby-ender-dragon](https://github.com/prathamsethiongithub/baby-ender-dragon) — Minecraft 26.2 Fabric mod: a rideable baby ender dragon, verified by an in-client test harness
 - [portfolio-samples](https://github.com/prathamsethiongithub/portfolio-samples) — hand-coded responsive landing pages ([live](https://prathamsethiongithub.github.io/portfolio-samples/))
 - [ember-site](https://github.com/prathamsethiongithub/ember-site) — EMBER launcher landing site ([live](https://prathamsethiongithub.github.io/ember-site/))
-- [ccc-wheel](https://github.com/prathamsethiongithub/ccc-wheel) — THE WHEEL, the recurring mechanic from the CCC series
-- [6b6t-stash-bot](https://github.com/prathamsethiongithub/6b6t-stash-bot) — Minecraft anarchy-server bot (Node.js): portal navigation, stash hunting, auto-reconnect
-- [mafia-game](https://github.com/prathamsethiongithub/mafia-game) — browser social-deduction party game (Next.js)
+- [6b6t-stash-bot](https://github.com/prathamsethiongithub/6b6t-stash-bot) — Minecraft anarchy-server bot (Node.js)
 
 **Toolbox** — Three.js/WebGL · React · TypeScript · Node.js · Python · Supabase/Postgres · n8n · Docker · LLM APIs
 
